@@ -1,0 +1,25 @@
+app/controllers/imports_controller.rb
+  s_1899ef248ce738::t_950580fa191f9e 130-131
+app/views/imports/new.html.erb
+  s_1899ef248ce738::t_90a23870d308cf 68,87,133,152
+config/locales/views/imports/en.yml
+  s_1899ef248ce738::t_5be61d34d77e62 451
+test/controllers/imports_controller_test.rb
+  s_1899ef248ce738::t_119a7383eb2054 27,92-100
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.13",
+  "base_commit_sha": "92d466400bceea0a4b962667e274d78a01ce87e7",
+  "prompts": {},
+  "sessions": {
+    "s_1899ef248ce738": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "s_1899ef248ce738",
+        "model": "unknown"
+      },
+      "human_author": "itsLeonB <ellionblessan@gmail.com>"
+    }
+  }
+}
