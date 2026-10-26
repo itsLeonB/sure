@@ -1,0 +1,21 @@
+app/models/account_statement.rb
+  s_0f99059a1c7a6a::t_11f6434005a756 89,118,230-241
+test/models/account_statement_test.rb
+  s_0f99059a1c7a6a::t_3ddbf21f1ef0e4 117-159
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.13",
+  "base_commit_sha": "a227a350fb9d4f344dee55e4f28e5380630cbc4b",
+  "prompts": {},
+  "sessions": {
+    "s_0f99059a1c7a6a": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "s_0f99059a1c7a6a",
+        "model": "unknown"
+      },
+      "human_author": "itsLeonB <ellionblessan@gmail.com>"
+    }
+  }
+}
