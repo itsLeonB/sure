@@ -1,0 +1,21 @@
+app/models/account_statement.rb
+  s_609320a1f1c8c0::t_d8aa336d504609 89-96
+test/models/account_statement_test.rb
+  s_609320a1f1c8c0::t_fd3e2dfbeb86b9 97-116
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.13",
+  "base_commit_sha": "bcf9450afec71abeba01e856d8c5014084cb60e2",
+  "prompts": {},
+  "sessions": {
+    "s_609320a1f1c8c0": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "s_609320a1f1c8c0",
+        "model": "unknown"
+      },
+      "human_author": "itsLeonB <ellionblessan@gmail.com>"
+    }
+  }
+}
